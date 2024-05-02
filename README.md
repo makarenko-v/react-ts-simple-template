@@ -15,4 +15,9 @@ degit makarenko-v/react-ts-simple-template
 npm install
 ```
 
+### Run the dev server
+```
+npm run dev
+```
+
 ### Enjoy!
